@@ -1,9 +1,9 @@
 # Kamilla_1533
 
-**`I'm learn Python and Machine Learning`**
+### **`I'm learn Python and Machine Learning`**
 
-  - Learning Python and actively applying it to Machine Learning & Neural Network projects. My projects showcase my progress and passion for Computer Vision.
-  - Looking forward to tackling more complex and interesting projects.
+####  - Learning Python and actively applying it to Machine Learning & Neural Network projects. My projects showcase my progress and passion for Computer Vision.
+####  - Looking forward to tackling more complex and interesting projects.
 
 ---
 
